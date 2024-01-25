@@ -1,0 +1,36 @@
+LECTURES
+
+NOTE: We are going to start with an introduction to git so we can clone the repo (not final lecture).
+
+- GIT introduction
+
+- PYTHON:
+    1. Introduction
+        * Definition, history and relevance
+        * How to install and set up
+    2. General introduction
+        * Values and data types
+        * Operators and Operands
+        * 
+
+- INTERNET
+    1. Introduction to Networking
+        * TCP/IP Five-Layer Network Model
+        * The basics of Networking Devices
+        * The Physical Layer
+        * Data Link Layer
+    2. The Network Layer
+
+    3. The transport and applicaction Layer
+
+    4. Wireless connections
+
+- WEB DEVELOPMENT
+    1. HTML
+    2. CSS
+    3. JS
+
+- HARDWARE
+- PROJECT
+
+

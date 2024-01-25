@@ -1,7 +1,79 @@
-TODO:
+--------------------------------------------------------
+                        TODO
+--------------------------------------------------------
+Important things to do.
+REMEMBER: Always have a week lecture.
 
-1-24-2024
+Define fridays
 
-- FINISH WEB DEV & GIT LECTURE
-- ADD PYTHON AND INTERNET LECTURE
-- START ESP32 LECTURE
+--------------------------------------------------------
+                        SEQUENCE
+--------------------------------------------------------
+Sequence of lectures.
+
+January
+30. Exam and welcome
+31. Introduction to IoT, git clone and set up.
+
+February
+01. 
+02.
+
+--------------------------------------------------------
+                        LECTURES
+--------------------------------------------------------
+Lectures updates
+
+1-24-2024 - PROJECT STARTED
+
+- WEB DEV
+    * HMTL: Add excercies
+    * CSS: Add bootstrap lecture and excercies
+    * JS: Start lecture
+    * Frameworks: Angular & React
+    * UIX?
+    * Define django or flask
+    * After define framework add DB
+
+- GIT
+    * Document with GIT commands
+    * Update lecture:
+        + Introduction
+        + Merge 
+        + Rebase
+        + Reset
+    * Add excercies
+
+- PYTHON
+    * Start lecture
+
+- INTERNET
+    * Add lecture
+    * Add wireless section:
+        + MQTT
+
+- ESP32
+    *
+
+- RASPBERRY
+    * 
+
+- PROJECT:
+{   Code: {
+    1: MUCKUP
+}
+    Investigation:{
+        /* Add all points to research
+    }
+}
+
+--------------------------------------------------------
+                        OTHER
+--------------------------------------------------------
+Not so important to do.
+
+* ADD LECTURES.TXT TO README.md
+* ADD SEQUENCE TO README.md
+* Buy raspberry 5
+* MACHINE LEARNING LECTURE ???
+
