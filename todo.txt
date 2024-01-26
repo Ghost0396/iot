@@ -4,7 +4,10 @@
 Important things to do.
 REMEMBER: Always have a week lecture.
 
-Define fridays
+1-25-2023
+    Define fridays
+    README.md: Explain how to log in to git and how to clone the repo.
+    Print exam and lists
 
 --------------------------------------------------------
                         SEQUENCE
@@ -16,7 +19,7 @@ January
 31. Introduction to IoT, git clone and set up.
 
 February
-01. 
+01. Internet lecture 
 02.
 
 --------------------------------------------------------
@@ -24,14 +27,19 @@ February
 --------------------------------------------------------
 Lectures updates
 
-1-24-2024 - PROJECT STARTED
+1-24-2024 
+    * PROJECT STARTED
+1-25-2024 
+    * 
 
-- WEB DEV
-    * HMTL: Add excercies
-    * CSS: Add bootstrap lecture and excercies
+- WEB DEV [Frontend]
+    * HTML: Add exercises
+    * CSS: Add bootstrap lecture and exercises
     * JS: Start lecture
     * Frameworks: Angular & React
     * UIX?
+
+- WEB DEB [Backend]
     * Define django or flask
     * After define framework add DB
 
@@ -42,7 +50,7 @@ Lectures updates
         + Merge 
         + Rebase
         + Reset
-    * Add excercies
+    * Add exercises
 
 - PYTHON
     * Start lecture
@@ -72,7 +80,8 @@ Lectures updates
 --------------------------------------------------------
 Not so important to do.
 
-* ADD LECTURES.TXT TO README.md
+* ADD TO README.md
+* Update lectures.md
 * ADD SEQUENCE TO README.md
 * Buy raspberry 5
 * MACHINE LEARNING LECTURE ???
