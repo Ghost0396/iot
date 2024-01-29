@@ -4,6 +4,9 @@
 Important things to do.
 REMEMBER: Always have a week lecture.
 
+1-28-2023
+    Upload SIISAE
+    
 1-25-2023
     Define fridays
     README.md: Explain how to log in to git and how to clone the repo.

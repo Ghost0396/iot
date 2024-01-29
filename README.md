@@ -16,5 +16,4 @@ DESCRIPTION
 3. Clone the repo.
 
 
-    [joelespa@Laptop iot]$ git clone
-
+    [joelespa@Laptop iot]$ git clone https://github.com/Ghost0396/iot.git

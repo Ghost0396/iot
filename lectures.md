@@ -11,7 +11,12 @@ NOTE: We are going to start with an introduction to git, so we can clone the rep
 2. General introduction
     - Values and data types
     - Operators and Operands
-    - 
+    - Function calls
+    - Data types
+    - Type conversion functions
+    - Variables
+    - Statements and expressions
+    
 
 ## INTERNET
 ### Part 1 Introduction to Networking
