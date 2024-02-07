@@ -1,7 +1,7 @@
 """
 LECTURE 2
 
-Data type
+Data types
 """
 
 # Integers - Whole numbers without a fractional part.
