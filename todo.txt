@@ -92,3 +92,35 @@ Not so important to do.
 * Buy raspberry 5
 * MACHINE LEARNING LECTURE ???
 
+
+2. Understanding Python Syntax and Semantics
+
+    Hello, World!: Start with the classic "Hello, World!" program to understand the basics of Python syntax.
+
+python
+
+print("Hello, World!")
+
+    Comments: Learn to use comments to describe your code. Single-line comments start with #, and multi-line comments can be enclosed in triple quotes (""" or ''').
+    Variables and Data Types: Understand how to declare variables and use basic data types: integers (int), floating-point numbers (float), strings (str), and booleans (bool).
+
+3. Working with Data Structures
+
+    Lists: Use lists to store collections of items. Learn about list operations, such as indexing, slicing, appending, and removing items.
+    Dictionaries: Understand dictionaries for storing key-value pairs. Practice adding, removing, and accessing elements by key.
+    Sets and Tuples: Learn the basics of sets (unordered collections of unique elements) and tuples (immutable sequences).
+
+4. Control Flow
+
+    Conditional Statements: Use if, elif, and else statements to execute different blocks of code based on certain conditions.
+    Loops: Master the use of for loops for iterating over sequences and while loops for repeating code as long as a condition is true.
+
+5. Functions
+
+    Defining Functions: Learn how to define your own functions using the def keyword. Understand how to pass information to functions using parameters and return values from functions using return.
+    Scope and Lifetime of Variables: Understand the difference between local and global variables and their scope within a program.
+
+6. Basic File Handling
+
+    Reading from a File: Learn how to open and read the contents of a file using built-in functions like open() and methods like .read() and .readlines().
+    Writing to a File: Practice writing to files using modes like 'w' (write) and 'a' (append).

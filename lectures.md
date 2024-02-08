@@ -8,7 +8,7 @@ NOTE: We are going to start with an introduction to git, so we can clone the rep
 1. Introduction
     - Definition, history and relevance
     - How to install and set it up
-2. General introduction
+2. Syntax and Semantics
     - Values and data types
     - Operators and Operands
     - Function calls (Built-in)
