@@ -17,8 +17,6 @@ Calculate the following using Python's arithmetic operators:
     The sum of 15 and 32.
     The difference when 94 is subtracted from 100.
     The product of 12 and 3.
-    The quotient when 48 is divided by 6.
-    The remainder when 9 is divided by 4.
 
 ## Exercise 3: Type Conversion
 
@@ -40,7 +38,10 @@ Given the string "hello world", perform the following:
 
 ## Exercise 5: Using format() Method
 
-Use the format() method to insert the numbers 20 and 30 into this sentence: "These two numbers are {} and {}."
+Use the format() method to insert the numbers 20 and 30 into this sentence:
+
+    "These two numbers are {} and {}."
+
 ## Exercise 6: Concatenation and Repetition
 
     Concatenate the strings "Python" and "Programming".
@@ -52,11 +53,12 @@ Given the string "Data Science", extract:
 
     "Data".
     "Science".
-    Every second letter from the string.
 
 ## Exercise 8: Checking Type
 
-Write a Python script to check the type of the variable assigned with the value "100" and 100.
+Write a Python script to check the type of the variable assigned with the value:
+
+    "100" and 100.
 
 ## Exercise 9: Arithmetic and Strings
 
@@ -64,23 +66,20 @@ Given the string "100", convert it to an integer and add 50 to it.
 
 ## Exercise 10: String Length
 
-Find the length of the string "Learning Python is fun!".
+Find the length of the string 
+    
+    "Learning Python is fun!".
 
 ## Exercise 11: Finding Substrings
 
-Check if "Python" is present in the string "Learning Python is interesting.".
+Check if "Python" is present in the string 
+    
+    "Learning Python is interesting.".
 
 ## Exercise 12: Splitting Strings
 
-Split the string "Python-Data-Science" by the delimiter "-".
+Split the string 
+    
+    "Python-Data-Science" 
 
-## Exercise 13: Joining Strings
-
-Join the following list ["Python", "is", "awesome"] into a single string, separated by spaces.
-
-## Exercise 14: Stripping Whitespace
-
-Given the string " Python ", remove all leading and trailing whitespaces.
-## Exercise 15: String to Title Case
-
-Convert the string "python programming" to title case, so that each word starts with a capital letter.
+by the delimiter "-".
