@@ -41,7 +41,7 @@ Given the string "hello world", perform the following:
 ## Exercise 5: Using format() Method
 
 Use the format() method to insert the numbers 20 and 30 into this sentence: "These two numbers are {} and {}."
-Exercise 6: Concatenation and Repetition
+## Exercise 6: Concatenation and Repetition
 
     Concatenate the strings "Python" and "Programming".
     Repeat the string "Python" 3 times.
