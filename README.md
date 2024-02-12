@@ -11,6 +11,7 @@ DESCRIPTION
 
 
     [joelespa@Laptop Documents]$ mkdir iot
+    
     [joelespa@Laptop Documents]$ cd iot
 
 3. Clone the repo.
