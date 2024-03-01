@@ -35,3 +35,12 @@ products = {
 ## 6: Dictionary from User Input
 
     1. Write a program that asks the user to enter names and favorite colors (e.g., John:blue), separated by a colon. Store these pairs in a dictionary, and then print the dictionary. Assume the input ends when the user enters "done".
+
+## 7. Counting with Dictionaries
+
+    Given a string, count how many times each character appears and store the counts in a dictionary. For example, given the string "hello", the result should be {'h': 1, 'e': 1, 'l': 2, 'o': 1}.
+
+## 8. Inverting a Dictionary
+
+    Write a function that inverts a dictionary, swapping keys and values. Assume that the original dictionary's values are unique. For example, if the input is {'a': 1, 'b': 2, 'c': 3}, the output should be {1: 'a', 2: 'b', 3: 'c'}.
+
