@@ -21,7 +21,7 @@ class Cat(Animal):
 
 # Creating instances of the derived classes
 dog = Dog("Buddy")
-cat = Cat("Whiskers")
+cat = Cat("manchas")
 
 # Each instance uses the inherited structure but performs its unique action
 print(dog.speak())
