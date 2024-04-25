@@ -1,3 +1,11 @@
+.bg-dark2 {
+    background: #1e2833;
+}
+
+.ico-circular {
+    border-radius: 50%;
+}
+
 .login {
     background: rgb(137, 150, 190) url('../img/1.jpg');
     height: 100vh;
