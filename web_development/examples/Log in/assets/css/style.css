@@ -1,0 +1,50 @@
+.login {
+    background: rgb(137, 150, 190) url('../img/1.jpg');
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+}
+
+.login form {
+    background: #1e2833;
+    max-width: 320px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 4px rgba(0,0,0,0.2);
+    color: aliceblue;
+}
+
+.login form .login-ico, #ico-log{
+    font-size: 100px;
+    color: #2980ef;
+    padding: 15px 0 20px;
+    text-align: center;
+}
+
+.login form .form-control {
+    background: none;
+    color: inherit;
+    border: none;
+    border-bottom: 1px solid #434a52;
+    box-shadow: none;
+    border-radius: 0%;
+}
+
+ .login form .btn {
+    background:#214a80;
+    padding: 11px;
+    margin-top: 26px;
+    color: inherit;
+  }
+
+  .login form .forgot {
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    color:#6f7a85;
+    text-decoration: none;
+  }
