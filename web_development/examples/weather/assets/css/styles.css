@@ -32,7 +32,7 @@ body {
 }
 
 body::after {
-    background: rgb(137, 150, 190) url('../img/1.jpg');
+    background: rgb(137, 150, 190) url('../img/2.jpg');
     height: 100vh;
     position: relative;
     background-size: cover;
