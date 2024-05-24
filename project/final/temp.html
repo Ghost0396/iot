@@ -27,7 +27,7 @@
         padding: 5px;
         margin-right: 10px;
         display: inline-block;
-        vertical-align: top; /* Align the image to the top */
+        vertical-align: top;
       }
       .navbar {
         background-color: #282A36;
@@ -36,27 +36,27 @@
       .navbar-brand {
         display: inline-flex;
         align-items: center;
-        text-decoration: none; /* Remove underline from link */
-        color: inherit; /* Keep text color the same as surrounding text */
+        text-decoration: none; 
+        color: inherit; 
       }
       .nav-item {
-        margin: 0 10px; /* Adjust spacing between nav items */
+        margin: 0 10px;
       }
       .nav-link {
         text-decoration: none;
-        color: inherit; /* Keeps the text color consistent */
+        color: inherit;
         display: flex;
         align-items: center;
       }
       .material-icons {
-        margin-right: 5px; /* Space between icon and text */
+        margin-right: 5px;
       }
       .main-content {
         flex: 1;
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 20px; /* Add some padding for better look on small screens */
+        padding: 20px;
       }
       .container {
         max-width: 600px;
@@ -64,10 +64,10 @@
       }
       .card {
         background-color: #282A36;
-        border: none; /* Remove border to avoid white outline */
+        border: none;
       }
       .card-body {
-        color: #fff; /* Set text color to white for better contrast */
+        color: #fff;
       }
       .btn-custom {
         background-color: #fff;
@@ -90,19 +90,19 @@
       }
       @media (max-width: 576px) {
         .card {
-          margin: 20px 0; /* Add margin on small screens */
+          margin: 20px 0;
         }
         .card-body {
-          padding: 10px; /* Reduce padding for smaller screens */
+          padding: 10px;
         }
         .btn {
-          font-size: 14px; /* Adjust button font size for smaller screens */
+          font-size: 14px;
         }
         .button-container {
           flex-direction: column;
         }
         .button-container a {
-          margin-bottom: 10px; /* Add space between buttons on small screens */
+          margin-bottom: 10px;
         }
       }
     </style>
@@ -112,7 +112,7 @@
           console.log("WebSocket connection established");
         };
         ws.onmessage = function(event) {
-          console.log("WebSocket message received:", event.data); // Debugging line
+          console.log("WebSocket message received:", event.data);
           try {
             var data = JSON.parse(event.data);
             document.getElementById('room-temperature').innerText = data.roomTemperature + ' °C';
@@ -173,7 +173,6 @@
                                     <p id="city-humidity" class="card-text">Loading...</p>
                                 </div>
                             </div>
-                            <a href="/" class="btn btn-primary"><i class="material-icons">arrow_back</i> Back</a>
                         </div>
                     </div>
                 </div>
