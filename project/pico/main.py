@@ -4,7 +4,7 @@ import time
 
 sensor = dht.DHT11(Pin(14))
 
-led = Pin("LED", Pin.OUT)
+led = Pin(17, Pin.OUT)
 
 button = Pin(15, Pin.IN, Pin.PULL_UP)
 
